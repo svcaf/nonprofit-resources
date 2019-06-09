@@ -8,3 +8,4 @@ Code for Better Governments
   - https://github.com/topics/nonprofit
   - https://github.com/nysenate 
     - https://github.com/nysenate/OpenLegislation  a web service that delivers legislative information to the public
+  - https://openstates.org/ 
