@@ -8,4 +8,5 @@ Code for Better Governments
   - https://github.com/topics/nonprofit
   - https://github.com/nysenate 
     - https://github.com/nysenate/OpenLegislation  a web service that delivers legislative information to the public
-  - https://openstates.org/ 
+  - https://openstates.org/ Open States strives to improve civic engagement at the state level by providing data and tools regarding state legislatures
+    - https://github.com/openstates
