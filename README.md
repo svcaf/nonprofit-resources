@@ -6,3 +6,5 @@ Code for Better Governments
   - https://github.com/collections/open-data 
   - https://government.github.com/
   - https://github.com/topics/nonprofit
+  - https://github.com/nysenate 
+    - https://github.com/nysenate/OpenLegislation
