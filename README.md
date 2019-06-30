@@ -13,6 +13,8 @@ Collecting resources related to running a non-profit organization
 
 # Funding
 
+https://www.benevity.com/ Set up your organization there to get company matching donations. 
+
 https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program/
 
 # Daily Operations
