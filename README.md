@@ -20,3 +20,7 @@ https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program
 # Daily Operations
 
 https://github.com/freeCodeCamp/mail-for-good
+
+# Tech Software and Services
+
+https://www.techsoup.org/ Collecting all discounted or free technical products or services for non-profit organizations. 
