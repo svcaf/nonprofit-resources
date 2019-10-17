@@ -1,4 +1,4 @@
-#US employers taxes for foreign freelancers research
+# US employers taxes for foreign freelancers research
 
 
 # Summary
