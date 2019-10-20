@@ -17,6 +17,14 @@ https://www.benevity.com/ Set up your organization there to get company matching
 
 https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program/
 
+
+# Hiring Freelancers
+
+[Freelance websites comparison](https://github.com/svcaf/nonprofit-resources/blob/master/freelance-sites-research/research.md)
+
+[US Taxes for Foreign Freelancers](https://github.com/svcaf/nonprofit-resources/blob/master/taxes-research/research.md)
+
+
 # Daily Operations
 
 https://github.com/freeCodeCamp/mail-for-good
