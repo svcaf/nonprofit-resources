@@ -7,3 +7,17 @@
 | giggrabbers.com   | 9.5%                                                             |  None                                                                            | None ("If you are under 18, you may use https://www.giggrabbers.com/home only with permission of a parent or guardian.") | Free account includes 15 bids per month (renewed monthly), 10 portfolio gallery slots                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | peopleperhour.com | 20%                                                              | $0.78+10% (depending on membership level)                                        | Not stated                                                                                                               | Negative reviews: "Users who gave PeoplePerHour a negative review complained that its customer support team is useless as it either does not respond or sends messages that have nothing to do with the question or inquiry. Most others said that there are a lot of high fees." More: https://fitsmallbusiness.com/peopleperhour-reviews/                                                                                                                                                                                                      |
 | truelancer.com    | 8%-10%                                                           |  None(except payment processing fee charged by third party payment processors)   | "legal entity, or an individual of eighteen (18) years of age or older"                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+
+# Tax Forms
+
+## Fiverr
+
+https://forum.fiverr.com/t/tax-forms-and-fiverr/263835
+For USA Buyers concerned about Form 1099:
+
+Under the Internal Revenue Code Section 6050W, you don’t need to file Form 1099-MISC for freelancers paid through Fiverr because you’re not paying your freelancer directly. When you pay through Fiverr, you actually pay Fiverr’s accounting department to hold your funds in escrow and then transfer it to a freelancer if the transaction is completed. Fiverr acts as a “third party settlement organization” under Section 6050W. Fiverr provides freelancers with records of everything they make so they can file taxes as needed. You can use your Fiverr buyer records to collect the numbers and info needed to show how much you paid annually to the third party settlement organization.
+
+Ask your CPA or anyone who is an expert in financial law in the U.S. and they can clarify IRS Code Section 6050W and the issue of third party settlement organizations. If your CPA wants an invoice, see this:
+
+https://buyers.fiverr.com/en/article/viewing-invoices
